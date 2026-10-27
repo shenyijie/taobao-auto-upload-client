@@ -1,0 +1,1 @@
+pyuic6 Talent.ui -o Ui_Talent.py
